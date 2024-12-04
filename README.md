@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kirtan1771
 - 👀 I’m interested in Software development and web development
-- 🌱 I’m currently learning or pursuing my computer science degree and im in 3 year
+- 🌱 I've recently completed my Bachelor's in Computer Engineering.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me through my mail id-kirtangoswami21@gmail.com
 
