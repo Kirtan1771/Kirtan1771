@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kirtan1771
-- 👀 I’m interested in Software development and web development
+- 👀 I’m interested in Software development and Application development
 - 🌱 I've recently completed my Bachelor's in Computer Engineering.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Flutter Projects for Android and Ios Apps using dart.
 - 📫 How to reach me through my mail id-kirtangoswami21@gmail.com
 
 <!---
